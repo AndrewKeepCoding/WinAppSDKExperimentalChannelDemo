@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinAppSDKExperimentalChannelDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinAppSDKExperimentalChannelDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
